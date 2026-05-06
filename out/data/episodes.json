@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to Podsite1",
+    "description": "An introduction to our sleek podcast website featuring modern design and amazing content.",
+    "duration": "15:30",
+    "date": "2026-05-01",
+    "audioUrl": "/audio/episode1.mp3",
+    "imageUrl": "/images/episode1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Future of Web Design",
+    "description": "Exploring cutting-edge trends in responsive web design and user experience.",
+    "duration": "22:45",
+    "date": "2026-04-28",
+    "audioUrl": "/audio/episode2.mp3",
+    "imageUrl": "/images/episode2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript Frameworks Showdown",
+    "description": "Comparing popular JavaScript frameworks and their use cases in modern development.",
+    "duration": "28:12",
+    "date": "2026-04-25",
+    "audioUrl": "/audio/episode3.mp3",
+    "imageUrl": "/images/episode3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Accessibility Matters",
+    "description": "Why accessibility is crucial for web applications and how to implement it effectively.",
+    "duration": "19:58",
+    "date": "2026-04-22",
+    "audioUrl": "/audio/episode4.mp3",
+    "imageUrl": "/images/episode4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Performance Optimization Tips",
+    "description": "Practical techniques to improve web application performance and load times.",
+    "duration": "25:33",
+    "date": "2026-04-19",
+    "audioUrl": "/audio/episode5.mp3",
+    "imageUrl": "/images/episode5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "React Best Practices",
+    "description": "Essential patterns and practices for writing maintainable React code.",
+    "duration": "31:17",
+    "date": "2026-04-16",
+    "audioUrl": "/audio/episode6.mp3",
+    "imageUrl": "/images/episode6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "CSS Grid vs Flexbox",
+    "description": "When to use CSS Grid versus Flexbox for modern layouts.",
+    "duration": "18:44",
+    "date": "2026-04-13",
+    "audioUrl": "/audio/episode7.mp3",
+    "imageUrl": "/images/episode7.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Building Static Sites",
+    "description": "The benefits and tools for creating static websites with modern frameworks.",
+    "duration": "24:09",
+    "date": "2026-04-10",
+    "audioUrl": "/audio/episode8.mp3",
+    "imageUrl": "/images/episode8.jpg"
+  },
+  {
+    "id": 9,
+    "title": "TypeScript in Web Development",
+    "description": "How TypeScript improves code quality and developer experience.",
+    "duration": "27:55",
+    "date": "2026-04-07",
+    "audioUrl": "/audio/episode9.mp3",
+    "imageUrl": "/images/episode9.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Mobile-First Design",
+    "description": "Designing websites with mobile users as the primary consideration.",
+    "duration": "20:21",
+    "date": "2026-04-04",
+    "audioUrl": "/audio/episode10.mp3",
+    "imageUrl": "/images/episode10.jpg"
+  },
+  {
+    "id": 11,
+    "title": "API Design Principles",
+    "description": "Best practices for designing RESTful APIs and GraphQL endpoints.",
+    "duration": "29:38",
+    "date": "2026-04-01",
+    "audioUrl": "/audio/episode11.mp3",
+    "imageUrl": "/images/episode11.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Testing Strategies",
+    "description": "Comprehensive testing approaches for web applications.",
+    "duration": "26:07",
+    "date": "2026-03-29",
+    "audioUrl": "/audio/episode12.mp3",
+    "imageUrl": "/images/episode12.jpg"
+  },
+  {
+    "id": 13,
+    "title": "DevOps for Developers",
+    "description": "Essential DevOps concepts every developer should understand.",
+    "duration": "23:51",
+    "date": "2026-03-26",
+    "audioUrl": "/audio/episode13.mp3",
+    "imageUrl": "/images/episode13.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Open Source Contributions",
+    "description": "How to get started with contributing to open source projects.",
+    "duration": "21:14",
+    "date": "2026-03-23",
+    "audioUrl": "/audio/episode14.mp3",
+    "imageUrl": "/images/episode14.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Web Security Basics",
+    "description": "Fundamental security concepts for web developers.",
+    "duration": "30:42",
+    "date": "2026-03-20",
+    "audioUrl": "/audio/episode15.mp3",
+    "imageUrl": "/images/episode15.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Progressive Web Apps",
+    "description": "Building web apps that work offline and feel native.",
+    "duration": "32:19",
+    "date": "2026-03-17",
+    "audioUrl": "/audio/episode16.mp3",
+    "imageUrl": "/images/episode16.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Database Design",
+    "description": "Principles of effective database schema design.",
+    "duration": "28:33",
+    "date": "2026-03-14",
+    "audioUrl": "/audio/episode17.mp3",
+    "imageUrl": "/images/episode17.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Microservices Architecture",
+    "description": "When and how to break applications into microservices.",
+    "duration": "34:08",
+    "date": "2026-03-11",
+    "audioUrl": "/audio/episode18.mp3",
+    "imageUrl": "/images/episode18.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Continuous Integration",
+    "description": "Setting up CI/CD pipelines for automated testing and deployment.",
+    "duration": "25:59",
+    "date": "2026-03-08",
+    "audioUrl": "/audio/episode19.mp3",
+    "imageUrl": "/images/episode19.jpg"
+  },
+  {
+    "id": 20,
+    "title": "The Evolution of JavaScript",
+    "description": "From ES5 to modern JavaScript features and what's coming next.",
+    "duration": "33:27",
+    "date": "2026-03-05",
+    "audioUrl": "/audio/episode20.mp3",
+    "imageUrl": "/images/episode20.jpg"
+  }
+]

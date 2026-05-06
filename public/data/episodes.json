@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to Podsite1",
+    "description": "An introduction to our sleek podcast website featuring modern design and amazing content.",
+    "duration": "15:30",
+    "date": "2026-05-01",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "imageUrl": "https://picsum.photos/400/200?random=1"
+  },
+  {
+    "id": 2,
+    "title": "The Future of Web Design",
+    "description": "Exploring cutting-edge trends in responsive web design and user experience.",
+    "duration": "22:45",
+    "date": "2026-04-28",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "imageUrl": "https://picsum.photos/400/200?random=2"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript Frameworks Showdown",
+    "description": "Comparing popular JavaScript frameworks and their use cases in modern development.",
+    "duration": "28:12",
+    "date": "2026-04-25",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "imageUrl": "https://picsum.photos/400/200?random=3"
+  },
+  {
+    "id": 4,
+    "title": "Accessibility Matters",
+    "description": "Why accessibility is crucial for web applications and how to implement it effectively.",
+    "duration": "19:58",
+    "date": "2026-04-22",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+    "imageUrl": "https://picsum.photos/400/200?random=4"
+  },
+  {
+    "id": 5,
+    "title": "Performance Optimization Tips",
+    "description": "Practical techniques to improve web application performance and load times.",
+    "duration": "25:33",
+    "date": "2026-04-19",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+    "imageUrl": "https://picsum.photos/400/200?random=5"
+  },
+  {
+    "id": 6,
+    "title": "React Best Practices",
+    "description": "Essential patterns and practices for writing maintainable React code.",
+    "duration": "31:17",
+    "date": "2026-04-16",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+    "imageUrl": "https://picsum.photos/400/200?random=6"
+  },
+  {
+    "id": 7,
+    "title": "CSS Grid vs Flexbox",
+    "description": "When to use CSS Grid versus Flexbox for modern layouts.",
+    "duration": "18:44",
+    "date": "2026-04-13",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+    "imageUrl": "https://picsum.photos/400/200?random=7"
+  },
+  {
+    "id": 8,
+    "title": "Building Static Sites",
+    "description": "The benefits and tools for creating static websites with modern frameworks.",
+    "duration": "24:09",
+    "date": "2026-04-10",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+    "imageUrl": "https://picsum.photos/400/200?random=8"
+  },
+  {
+    "id": 9,
+    "title": "TypeScript in Web Development",
+    "description": "How TypeScript improves code quality and developer experience.",
+    "duration": "27:55",
+    "date": "2026-04-07",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+    "imageUrl": "https://picsum.photos/400/200?random=9"
+  },
+  {
+    "id": 10,
+    "title": "Mobile-First Design",
+    "description": "Designing websites with mobile users as the primary consideration.",
+    "duration": "20:21",
+    "date": "2026-04-04",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+    "imageUrl": "https://picsum.photos/400/200?random=10"
+  },
+  {
+    "id": 11,
+    "title": "API Design Principles",
+    "description": "Best practices for designing RESTful APIs and GraphQL endpoints.",
+    "duration": "29:38",
+    "date": "2026-04-01",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+    "imageUrl": "https://picsum.photos/400/200?random=11"
+  },
+  {
+    "id": 12,
+    "title": "Testing Strategies",
+    "description": "Comprehensive testing approaches for web applications.",
+    "duration": "26:07",
+    "date": "2026-03-29",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+    "imageUrl": "https://picsum.photos/400/200?random=12"
+  },
+  {
+    "id": 13,
+    "title": "DevOps for Developers",
+    "description": "Essential DevOps concepts every developer should understand.",
+    "duration": "23:51",
+    "date": "2026-03-26",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+    "imageUrl": "https://picsum.photos/400/200?random=13"
+  },
+  {
+    "id": 14,
+    "title": "Open Source Contributions",
+    "description": "How to get started with contributing to open source projects.",
+    "duration": "21:14",
+    "date": "2026-03-23",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+    "imageUrl": "https://picsum.photos/400/200?random=14"
+  },
+  {
+    "id": 15,
+    "title": "Web Security Basics",
+    "description": "Fundamental security concepts for web developers.",
+    "duration": "30:42",
+    "date": "2026-03-20",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+    "imageUrl": "https://picsum.photos/400/200?random=15"
+  },
+  {
+    "id": 16,
+    "title": "Progressive Web Apps",
+    "description": "Building web apps that work offline and feel native.",
+    "duration": "32:19",
+    "date": "2026-03-17",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+    "imageUrl": "https://picsum.photos/400/200?random=16"
+  },
+  {
+    "id": 17,
+    "title": "Database Design",
+    "description": "Principles of effective database schema design.",
+    "duration": "28:33",
+    "date": "2026-03-14",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-17.mp3",
+    "imageUrl": "https://picsum.photos/400/200?random=17"
+  },
+  {
+    "id": 18,
+    "title": "Microservices Architecture",
+    "description": "When and how to break applications into microservices.",
+    "duration": "34:08",
+    "date": "2026-03-11",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-18.mp3",
+    "imageUrl": "https://picsum.photos/400/200?random=18"
+  },
+  {
+    "id": 19,
+    "title": "Continuous Integration",
+    "description": "Setting up CI/CD pipelines for automated testing and deployment.",
+    "duration": "25:59",
+    "date": "2026-03-08",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-19.mp3",
+    "imageUrl": "https://picsum.photos/400/200?random=19"
+  },
+  {
+    "id": 20,
+    "title": "The Evolution of JavaScript",
+    "description": "From ES5 to modern JavaScript features and what's coming next.",
+    "duration": "33:27",
+    "date": "2026-03-05",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-20.mp3",
+    "imageUrl": "https://picsum.photos/400/200?random=20"
+  }
+]
